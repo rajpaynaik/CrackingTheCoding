@@ -1,4 +1,4 @@
-const oneWay = (string1, string2) => {
+const oneWay = (strin, string2) => {
   let match = [];
   let string1Split = string1.split("");
   let string2Split = string2.split("");
